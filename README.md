@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 POSTECH(Pohang University of Science and Technology)
 February 2021 - present
 
+```
 computer science and engineering
+```
+
 
 # Experience
 
