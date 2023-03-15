@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 # Education
 
 POSTECH(Pohang University of Science and Technology)
-
-February 2021 - present
-
 ```
 computer science and engineering
 ```
@@ -27,9 +24,6 @@ computer science and engineering
 # Experience
 
 2022 POSTECH UGRP(Undergraduate Group Research Program)
-
-April 2022 - 
-
 *	Developing block chain-based learning management platform
 *	Research and learning on block chain
 
