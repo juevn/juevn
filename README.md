@@ -29,5 +29,5 @@ computer science and engineering
 
 # Award
 
-GLP scholarship of POSTECH CSE(2021/2022)
-2023 MINI-I-CORPS 
+* GLP scholarship of POSTECH CSE(2021/2022)
+* 2023 MINI-I-CORPS 
