@@ -35,3 +35,7 @@ computer science and engineering
 # Award
 
 * 2023 MINI-I-CORPS excellence prize
+
+# Student
+
+* 2023 MINI-I-CORPS excellence prize
