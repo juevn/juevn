@@ -29,7 +29,7 @@ computer science and engineering
 
 # Scholarship
 
-* GLP scholarship of POSTECH CSE(2021/2022)
+* GLP scholarship of POSTECH CSE
 * 국가우수장학금(이공계)
 
 # Award
