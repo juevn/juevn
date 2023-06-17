@@ -27,8 +27,11 @@ computer science and engineering
 *	Developing block chain-based learning management platform
 *	Research and learning on block chain
 
+# Scholarship
+
+* GLP scholarship of POSTECH CSE(2021/2022)
+* 국가우수장학금(이공계)
 
 # Award
 
-* GLP scholarship of POSTECH CSE(2021/2022)
 * 2023 MINI-I-CORPS excellence prize
