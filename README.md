@@ -36,6 +36,12 @@ computer science and engineering
 
 * 2023 MINI-I-CORPS excellence prize
 
-# Student
+# Student Activities
 
-* 2023 MINI-I-CORPS excellence prize
+2021-2023 POSTECH STUDENT AMBASSADOR ALIMI 27th
+*	2021학년도 하계 이공계학과대탐험(온라인) 기획 및 진행
+*	2021학년도 동계 이공계학과대탐험 기획 및 진행
+* 2022학년도 동계 이공계학과대탐험 기획 및 진행
+* 2022-2023 정보팀장
+
+2023 POSTECH CSE 학생회 기획부장
