@@ -27,6 +27,7 @@ computer science and engineering
 *	Developing block chain-based learning management platform
 *	Research and learning on block chain
 
+2023 Summer POSTECH Data Systems Lab Internship
 
 # 🏆Scholarship
 
